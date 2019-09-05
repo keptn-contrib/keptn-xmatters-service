@@ -2,4 +2,5 @@
 .gitignore
 .babelrc
 .env
+deploy.sh
 node_modules
